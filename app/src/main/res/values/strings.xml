@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather-App</string>
+    <string name="weather">Weather</string>
+    <string name="temperature">Temperature</string>
+    <string name="sensation">Feels Like</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="temperature_data_celsius">%1$s °</string>
+    <string name="temperature_data_fahrenheit">%1$s F</string>
+    <string name="humidity_data">%s%%</string>
+    <string name="wind_data">%1$d m/s</string>
+    <string name="pressure_data">%1$d hPa</string>
+</resources>
